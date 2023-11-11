@@ -1,0 +1,51 @@
+let obj=[
+{
+    username:'john',
+    profilePic:"https://sp-images.summitpost.org/1038746.jpg?auto=format&fit=max&ixlib=php-2.1.1&q=35&w=1024&s=394ed8f3158db7ef966a1b238d293e8b",
+    statusPic:[
+        {
+            imageUrl:"https://th.bing.com/th/id/OIP.xsXGQS6OWe2GZefiQnxMdgHaE8?pid=ImgDet&rs=1"
+        },
+        {
+            imageUrl:""
+        }
+    ]
+},
+{
+    username:'peter',
+    profilePic:"https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=1170&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    statusPic:[
+        {
+            imageUrl:"https://content.api.news/v3/images/bin/a787deaa11b10974748ee95804cb0ae4"
+        },
+        {
+            imageUrl:""
+        }
+    ]
+},
+{
+    username:'sunny',
+    profilePic:"https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=987&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    statusPic:[
+        {
+            imageUrl:""
+        },
+        {
+            imageUrl:""
+        }
+    ]
+},
+{
+    username:'rogar',
+    profilePic:"https://i.pinimg.com/originals/1f/e9/11/1fe911ad9ac254e5cdb215a904afdecc.jpg",
+    statusPic:[
+        {
+            imageUrl:"https://i.pinimg.com/236x/1c/46/cf/1c46cf06539835c65a51aad21013bd89.jpg"
+        },
+        {
+            imageUrl:""
+        }
+    ]
+}
+]
+export {obj};
